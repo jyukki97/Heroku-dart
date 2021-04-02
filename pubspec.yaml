@@ -18,7 +18,6 @@ dependencies:
   args: ^1.6.0
   shelf: ^0.7.5
   shelf_static: ^0.2.8
-  browser: any
   googleapis: any
   googleapis_auth: any
 
